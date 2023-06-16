@@ -1,1 +1,1 @@
-# Climate--Seasonality-Financial-Analysis-
+# Climate--Seasonality-Financial-Analysis
